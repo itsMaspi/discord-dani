@@ -14,7 +14,7 @@ button[aria-label="Pop Out"] {
 }
 
 /* Inbox */
-div[aria-label="Recent Mentions"] {
+div[aria-label="Inbox"] {
     display: none;
 }
 
