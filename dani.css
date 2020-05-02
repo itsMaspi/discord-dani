@@ -67,3 +67,7 @@ div.privateChannelRecipientsInviteButtonIcon-3A3uTc.da-privateChannelRecipientsI
 div.actionButtons-14eAc_.da-actionButtons {
     display: none;
 }
+
+nav[aria-label="Private channels"] {
+    background-color: red;
+}
