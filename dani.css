@@ -67,3 +67,43 @@ div.privateChannelRecipientsInviteButtonIcon-3A3uTc.da-privateChannelRecipientsI
 div.actionButtons-14eAc_.da-actionButtons {
     display: none;
 }
+
+/* MERDA DE DISCOOORORDDDDDDDDDDDD (Quadrats) */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l  div.inner-2O5YO7.da-inner {
+    width: 100px;
+    height: 100px;
+    margin: auto auto;
+}
+
+/* "Quadrats" rodons dels avatars */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.tile-2gi3tr.da-tile.noInteraction-2pbsEq.da-noInteraction.tile-ME82Od.da-tile,
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.tile-2gi3tr.da-tile.noInteraction-2pbsEq.da-noInteraction.idle-U-LIlZ.da-idle.tile-ME82Od.da-tile {
+    border-radius: 100%;
+}
+
+/* Verd quan parlem */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.border-3dQmSY.da-border.speaking-WDn8Wm.da-speaking {
+    border-radius: 100%;
+}
+
+/*div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.overlay-1YJlCn.da-overlay <- Status (mute, etc)*/
+/* Noms quan poses el cursor als avatars */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.size16-1P40sf.overlayTitle-8IcS01.da-overlayTitle {
+    display: none;
+}
+
+/* Separacio entre avatars */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.tile-kezkfV.da-tile.noVerticalMargin-1582Xa.da-noVerticalMargin {
+    width: 10.5%!important;
+}
+
+/* Crec que no importa pero si el avatar fos mes petit (passava sense la seguent regla) no es veure l'element pare d'aquest pel color de fons (= fons) */
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6.background-ujHpbY.da-background {
+    background-color: rgb(24, 25, 28)!important;
+}
+
+/* Avatars grans*/
+div.wrapper-2qzCYF.da-wrapper.minimum-28Z35l div.avatarWrapper-29j3CC.da-avatarWrapper.wrapper-3t9DeA.da-wrapper {
+    width: 100%!important;
+    height: 100%!important;
+}
