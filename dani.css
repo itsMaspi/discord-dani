@@ -19,7 +19,7 @@ div[aria-label="Inbox"] {
 }
 
 /* Help button */
-a[href="https://support.discordapp.com"] {
+a[href="https://support.discord.com"] {
     display: none;
 }
 
@@ -62,6 +62,7 @@ button[aria-label="Grid"] {
 div.privateChannelRecipientsInviteButtonIcon-3A3uTc.da-privateChannelRecipientsInviteButtonIcon.iconWrapper-2OrFZ1.da-iconWrapper.clickable-3rdHwn.da-clickable.focusable-1YV_-H.da-focusable[aria-label="Create DM"] {
     display: none;
 }
+
 
 /* Buttons del server (cam i live) */
 div.actionButtons-14eAc_.da-actionButtons {
