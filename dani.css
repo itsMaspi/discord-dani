@@ -63,9 +63,28 @@ div.privateChannelRecipientsInviteButtonIcon-3A3uTc.da-privateChannelRecipientsI
     display: none;
 }
 
-
 /* Buttons del server (cam i live) */
 div.actionButtons-14eAc_.da-actionButtons {
+    display: none;
+}
+/* quadrats blancs quan truques
+.da-ripple0, .da-ripple1, .da-ripple2 {
+    border-radius: 100%!important;
+}*/
+
+div[aria-label="Explore Public Servers"] {
+    display: none;
+}
+
+div.listItem-2P_4kh.da-listItem {
+    display: none;
+}
+
+a[href="/channels/@me"] {
+    display: none;
+}
+
+div.searchBar-6Kv8R2.da-searchBar {
     display: none;
 }
 
